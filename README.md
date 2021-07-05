@@ -4,6 +4,9 @@
 - How does the location influence the price of listings?
 - How big is the discount for weekly and montly prices?
 
+Those questions are answered in a blog post, which can be found here:
+https://medium.com/@mijka127/seattle-airbnb-data-analysis-f0c00c199129
+
 ## Dependencies
 The project is using Jupyther Notebook from the Anaconda distribution for Python3.
 Additionally, the following Python libraries will be used:
