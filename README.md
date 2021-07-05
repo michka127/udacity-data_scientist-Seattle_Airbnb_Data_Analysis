@@ -1,4 +1,4 @@
-#Seattle Airbnb Data Analysis
+# Seattle Airbnb Data Analysis
 (Part of Udacity's Data Scientist Nanodegree using data from Airbnb) In this project, housing data from Seattly is analysed to provide meaningful answers to the following business questions following the CRISP-DM process:
 - How does the time of the year influence the price of listings?
 - How does the location influence the price of listings?
