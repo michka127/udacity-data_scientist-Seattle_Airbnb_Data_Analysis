@@ -22,11 +22,11 @@ Run the notebook.
 
 ## Important folders and files
 udacity_project_Seattle_Airbnb_Data_Analysis.ipynp: the Jupyther Notebook that does the analysis
+plots: This folder contains all plots created during analysis
 seattle_airbnb_data.zip: This archive contains the data provided from Airbnb:
 - Listings.csv, including full descriptions and average review score
 - Reviews.csv, including unique id for each reviewer and detailed comments
 - Calendar.csv, including listing id and the price and availability for that day
-plots: This folder contains all plots created during analysis
 
 ## Acknowledgements
 The data used for the analysis was published by AirBnB dataset and is hosted by Kaggle. You can find it here: https://www.kaggle.com/airbnb/seattle/data
