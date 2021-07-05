@@ -21,7 +21,7 @@ Open udacity_project_Seattle_Airbnb_Data_Analysis.ipynp using Jupyter Notebooks 
 Run the notebook.
 
 ## Important folders and files
-udacity_project_Seattle_Airbnb_Data_Analysis.ipynp: the Jupyther Notebook that does the analysis
+udacity_project_Seattle_Airbnb_Data_Analysis.ipynp: The Jupyther Notebook that does the analysis
 plots: This folder contains all plots created during analysis
 seattle_airbnb_data.zip: This archive contains the data provided from Airbnb:
 - Listings.csv, including full descriptions and average review score
