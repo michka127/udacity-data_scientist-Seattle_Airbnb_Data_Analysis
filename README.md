@@ -32,4 +32,5 @@ seattle_airbnb_data.zip: This archive contains the data provided from Airbnb:
 
 ## Acknowledgements
 The data used for the analysis was published by AirBnB dataset and is hosted by Kaggle. You can find it here: https://www.kaggle.com/airbnb/seattle/data
+
 This project is part of the Udacity's Data Scientist Nanodegree programm: https://www.udacity.com/course/data-scientist-nanodegree--nd025
