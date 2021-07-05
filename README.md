@@ -1,5 +1,5 @@
 #Seattle Airbnb Data Analysis
-(Part of Udacity's Data Scientist Nanodegree using data from Airbnb) In this project, housing data from Seattly is analysed to provide meaningful answer to the following business questions following the CRISP-DM process:
+(Part of Udacity's Data Scientist Nanodegree using data from Airbnb) In this project, housing data from Seattly is analysed to provide meaningful answers to the following business questions following the CRISP-DM process:
 - How does the time of the year influence the price of listings?
 - How does the location influence the price of listings?
 - How big is the discount for weekly and montly prices?
@@ -22,7 +22,9 @@ Run the notebook.
 
 ## Important folders and files
 udacity_project_Seattle_Airbnb_Data_Analysis.ipynp: The Jupyther Notebook that does the analysis
+
 plots: This folder contains all plots created during analysis
+
 seattle_airbnb_data.zip: This archive contains the data provided from Airbnb:
 - Listings.csv, including full descriptions and average review score
 - Reviews.csv, including unique id for each reviewer and detailed comments
